@@ -1,4 +1,4 @@
-## Hi! My name is Elena!🐱
+## Привет! Я - Елена, frontend разработчик!
 
 ### My Skills:
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> 
